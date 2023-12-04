@@ -1,5 +1,4 @@
 import express, { Express, Request, Response, Application } from 'express';
-import url from 'url';
 import multer from 'multer';
 import Jimp from 'jimp';
 import jsQR from 'jsqr';
